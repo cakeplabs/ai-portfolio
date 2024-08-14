@@ -15,13 +15,13 @@ export default function Portfolio() {
     {
       title: "Interview with Silvy",
       link: "https://interview-altero.vercel.app/",
-      thumbnail: "/assets/silvy2.png",
+      thumbnail: "/assets/interview1.png",
     },
 
     {
       title: "Interview with Silvy",
       link: "https://interview-altero.vercel.app/",
-      thumbnail: "/assets/silvy1.png",
+      thumbnail: "/assets/interview2.png",
     },
     {
       title: "Editrix AI",
